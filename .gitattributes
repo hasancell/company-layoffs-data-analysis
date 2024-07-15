@@ -1,0 +1,4 @@
+*.sql linguist-language=SQL
+*.csv linguist-detectable=false
+*.md linguist-detectable=false
+*.gitignore linguist-detectable=false
